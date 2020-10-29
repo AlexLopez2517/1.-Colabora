@@ -5,5 +5,5 @@ se trata de una pagina hecha en bootstrap
 Editando el index
 Colaboradores
 
-1.- Alex López
-2.-...
+1.- Alejandro López --> header y footer
+2.- Alex López      --> contenido
